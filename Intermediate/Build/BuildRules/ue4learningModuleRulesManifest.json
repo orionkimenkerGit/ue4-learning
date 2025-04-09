@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/orionkimenker/ue4-learning/ue4-learning/ue4learning/Source/ue4learning/ue4learning.Build.cs",
+		"/Users/orionkimenker/ue4-learning/ue4-learning/ue4learning/Source/ue4learning.Target.cs",
+		"/Users/orionkimenker/ue4-learning/ue4-learning/ue4learning/Source/ue4learningEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
